@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/plannet-career/static/css/main.354ba6db.css",
+    "main.js": "/plannet-career/static/js/main.e98cf97b.js",
+    "static/js/787.790a7500.chunk.js": "/plannet-career/static/js/787.790a7500.chunk.js",
+    "static/media/Get-It-On-Google-Play-Logo-Vector-1.png": "/plannet-career/static/media/Get-It-On-Google-Play-Logo-Vector-1.588c678feba61594625b.png",
+    "static/media/pngtree-color-travel-tourism-vacation-image_9654.jpg": "/plannet-career/static/media/pngtree-color-travel-tourism-vacation-image_9654.1d65753d8af807d65c63.jpg",
+    "static/media/logo.svg": "/plannet-career/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/plannet-career/index.html",
+    "main.354ba6db.css.map": "/plannet-career/static/css/main.354ba6db.css.map",
+    "main.e98cf97b.js.map": "/plannet-career/static/js/main.e98cf97b.js.map",
+    "787.790a7500.chunk.js.map": "/plannet-career/static/js/787.790a7500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.354ba6db.css",
+    "static/js/main.e98cf97b.js"
+  ]
+}
