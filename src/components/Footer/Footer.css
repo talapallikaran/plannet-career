@@ -1,0 +1,23 @@
+.fab1{
+    border-radius: 4px !important;
+    background-color: white !important;
+    color: black !important;
+    text-transform: none !important;
+    font-size: 1.1rem !important;
+    padding-top: 25px !important; 
+    padding-bottom: 25px !important;
+    padding-right: 32px !important;
+    padding-right: 32px !important;
+    padding-left: 32px !important;
+    font-weight: 700 !important;
+    margin-top: 8px !important;
+}
+
+.link
+{
+    color:white !important;
+    letter-spacing: 2px !important;
+    text-decoration-color: white !important;
+    font-weight: 500 !important;
+    font-size: 1.260rem !important;
+}

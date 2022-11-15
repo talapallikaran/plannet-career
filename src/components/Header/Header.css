@@ -1,0 +1,20 @@
+.header{
+    background-color: #0e8049 !important;
+}
+.icon{
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+}
+.dropdown{
+    background-color: white;
+    height: 30px;
+    border-radius: 30px !important;
+    margin-top: 10px;
+    border: white;
+
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    padding-left: 10px !important;
+    padding-bottom: 10px !important;
+}

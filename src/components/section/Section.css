@@ -1,0 +1,42 @@
+.text2{
+    color:white ;
+}
+.remote{
+    font-size: 1rem;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: #0035a2;
+    background-color: #d4dffa;
+    font-weight: 700;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+.remote1{
+    font-size: 1rem;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: #0035a2;
+    background-color: #d4dffa;
+    font-weight: 700;
+    margin-left: 8px;
+    border-radius: 4px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .text2 {
+      font-size: 1.9rem !important;
+      text-align: left !important;
+      margin-left: 0 !important;
+    }
+    .title2{
+        font-size: 1.3rem !important;
+    }
+    .address{
+        margin-top: 10px !important;
+    }
+  }

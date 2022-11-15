@@ -1,0 +1,36 @@
+.fab{
+    border-radius: 4px !important;
+    background-color: white !important;
+    color: black !important;
+    text-transform: none !important;
+    font-size: 14px !important;
+    padding: 20px !important;
+    font-weight: 600 !important;
+    margin-top: 2px !important;
+}
+
+
+@media only screen and (min-width: 1200px) {
+.planet-text{
+    font-size: 3.5rem  !important;
+    padding: 8px ;
+}
+.plate{
+    padding-right: 290px !important;
+  
+}
+.About-text{
+    font-size: 18px !important;
+   
+}
+  }
+
+  @media only screen and (max-width: 600px) {
+    .planet-text{
+        font-size: 2rem  !important;
+       
+    }
+    .About-text{
+        margin-top: -25px;
+    }
+     }
